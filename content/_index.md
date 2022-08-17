@@ -31,7 +31,6 @@ Returning user? Figure out how to [[notes/updating|update]] your existing Quartz
 If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
 
 ### Navigation
-- 🚧 [Go back to homepage for Notes](deepankerkoul.in)
 - 🐛 [Exit to Main Website](https:deepankerkoul.in)
 - 👀 [Reach out to Me on Twitter](https://twitter.com/deepankerkaul)
 
