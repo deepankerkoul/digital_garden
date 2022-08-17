@@ -107,7 +107,7 @@ can add them to the `data/config.yaml` file. The **default** without any set
 `favicon` key is:
 
 ```html {title="layouts/partials/head.html", linenostart=15}
-<link rel="shortcut icon" href="icon.png" type="image/png">
+<link rel="shortcut icon" href="mugshot - site_icon.jpg" type="image/png">
 ```
 
 The default can be overridden by defining a value to the `favicon` key in your 
@@ -116,7 +116,7 @@ equivalent to the default:
 
 ```yaml {title="data/config.yaml", linenos=false}
 favicon:
-  - { rel: "shortcut icon", href: "icon.png", type: "image/png" }
+  - { rel: "shortcut icon", href: "mugshot - site_icon.jpg", type: "image/png" }
 #  - { ... } # Repeat for each additional favicon you want to add
 ```
 
@@ -128,7 +128,7 @@ may be easier to define it as HTML. Here is an example which appends the
 
 ```yaml {title="data/config.yaml", linenos=false}
 favicon: |
-  <link rel="shortcut icon" href="icon.png" type="image/png">
+  <link rel="shortcut icon" href="mugshot - site_icon.jpg" type="image/png">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 ```
 
