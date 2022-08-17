@@ -1,5 +1,7 @@
 ---
 title: "Public Finance"
+tags:
+- public_finance
 ---
 # Public Finance
 
