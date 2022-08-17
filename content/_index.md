@@ -1,6 +1,13 @@
 ---
-title: 🪴 Quartz 3.2
+title: 🪴 Deepanker's Digital Garden
 ---
+
+This is my Digital garden, where I plant and scatter different seeds or ideas. These could be about something I have learnt recently or something more serious, which I'm researching.
+
+Feel free to browse and learn what interests you. If you find somthing interesting and know more about it or wanna learn more about it, feel free to reach out to me✍🏻.
+
+----
+
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
@@ -24,3 +31,4 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
+----
