@@ -44,3 +44,11 @@ These are books and movies that are works of fiction but act as a gateway to und
 	- Savarkar: A Contested Legacy, 1924-1966
 	- Nehru: The Debates That Defined India
 	- Amritsar: Mrs. Gandhi's Last Battle
+
+
+
+
+### Navigation
+- 🚧 [[_index|Go back to homepage for Notes]]
+- 🐛 [Exit to Main Website](https://deepankerkoul.com/)
+- 👀 [Reach out to Me on Twitter](https://twitter.com/deepankerkaul)

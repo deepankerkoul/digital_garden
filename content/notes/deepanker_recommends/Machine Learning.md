@@ -4,3 +4,9 @@ Learning Machine Learning involves learning the foundations mathematics, program
 - Programming
 - Machine Learning
 	- 
+
+
+### Navigation
+- 🚧 [[_index|Go back to homepage for Notes]]
+- 🐛 [Exit to Main Website](https://deepankerkoul.com/)
+- 👀 [Reach out to Me on Twitter](https://twitter.com/deepankerkaul)

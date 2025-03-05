@@ -17,4 +17,9 @@ There can be rare inaccuracies since I'm curating this from memory, but if it do
 		- [[notes/deepanker_recommends/Understanding India|Understanding India 🇮🇳]]
 		- [[notes/deepanker_recommends/Kashmir|Learn about Kashmir 🍁]]
 		- [[notes/deepanker_recommends/Understanding World]]
-	- 
+
+
+### Navigation
+- 🚧 [[_index|Go back to homepage for Notes]]
+- 🐛 [Exit to Main Website](https://deepankerkoul.com/)
+- 👀 [Reach out to Me on Twitter](https://twitter.com/deepankerkaul)
