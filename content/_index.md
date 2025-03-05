@@ -16,5 +16,5 @@ Some of the things that I'm thinking about currently are:
 
 
 ### Navigation
-- 🐛 [Exit to Main Website](https://deepankerkoul.in/)
+- 🐛 [Exit to Main Website](https://deepankerkoul.com/)
 - 👀 [Reach out to Me on Twitter](https://twitter.com/deepankerkaul)
