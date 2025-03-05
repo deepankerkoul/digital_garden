@@ -11,5 +11,13 @@
 
 ## Movies
 - The Big Short
-- 
 
+## Rap Battles on Youtube
+- Government intervention distorts markets, but sometimes government interventions are unavoidable. The problem is, politicians are not good judges of the distinction between them. Here are two rap battles between fictionalised versions of Lord Meynard Keynes (father of Keynesian Economics) and F A Hayek (austrian school of economics)
+    - [Fear the Boom and Bust: Keynes vs. Hayek - The Original Economics Rap Battle!](https://www.youtube.com/watch?v=d0nERTFo-Sk)
+    - [Fight of the Century: Keynes vs. Hayek - Economics Rap Battle Round Two](https://www.youtube.com/watch?v=GTQnarzmTOc)
+
+### Navigation
+- 🚧 [[_index|Go back to homepage for Notes]]
+- 🐛 [Exit to Main Website](https://deepankerkoul.com/)
+- 👀 [Reach out to Me on Twitter](https://twitter.com/deepankerkaul)
